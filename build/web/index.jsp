@@ -13,13 +13,13 @@
     </head>
     <body>
         <ul> 
-        
+            <li><h1><a href="index.jsp"></a> inicio</h1></li>
             <li><h1> No soy batman</h1></li>
-            <li><h1> ni robin</h1></li>
+            <li><a href="robin.jsp">ni robin</a> </li>
             <li><h1> No el joker</h1></li>
         </ul>
         
         
         
-    </body>
+    </body>1
 </html>
