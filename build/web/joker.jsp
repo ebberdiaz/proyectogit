@@ -14,5 +14,6 @@
     <body>
         <h1>soy el joker</h1>
         <h1><a href="index.jsp">inicio</a></h1>
+        <%@include file="menu.jsp"%>
     </body>
 </html>

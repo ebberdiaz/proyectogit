@@ -12,13 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <ul> 
-            <li><h1><a href="index.jsp"></a> inicio</h1></li>
-            <li><a href="batman.jsp">no soy batman</a></li>
-            <li><a href="robin.jsp">ni robin</a> </li>
-            <li><a href="joker.jsp">el joker</a></li>
-        </ul>
-        
+      <%@include file="menu.jsp"%>
         
         
     </body>1
